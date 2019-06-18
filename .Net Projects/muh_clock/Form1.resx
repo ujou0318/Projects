@@ -123,13 +123,13 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="lblTime.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 36pt, style=Bold</value>
+    <value>Impact, 36pt</value>
   </data>
   <data name="lblTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 11</value>
+    <value>57, 57</value>
   </data>
   <data name="lblTime.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 69</value>
+    <value>172, 75</value>
   </data>
   <data name="lblTime.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -156,17 +156,17 @@
     <value>True</value>
   </data>
   <data name="lblSecond.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
+    <value>Impact, 24pt</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lblSecond.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblSecond.Location" type="System.Drawing.Point, System.Drawing">
-    <value>220, 30</value>
+    <value>212, 79</value>
   </data>
   <data name="lblSecond.Size" type="System.Drawing.Size, System.Drawing">
-    <value>66, 46</value>
+    <value>62, 48</value>
   </data>
   <data name="lblSecond.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -193,16 +193,16 @@
     <value>True</value>
   </data>
   <data name="lblDate.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
+    <value>Impact, 24pt</value>
   </data>
   <data name="lblDate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblDate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 79</value>
+    <value>12, 9</value>
   </data>
   <data name="lblDate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>259, 46</value>
+    <value>217, 48</value>
   </data>
   <data name="lblDate.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -229,16 +229,16 @@
     <value>True</value>
   </data>
   <data name="lblDay.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
+    <value>Impact, 24pt</value>
   </data>
   <data name="lblDay.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblDay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>325, 79</value>
+    <value>235, 9</value>
   </data>
   <data name="lblDay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 46</value>
+    <value>90, 48</value>
   </data>
   <data name="lblDay.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -267,14 +267,20 @@
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>8, 16</value>
   </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>449, 149</value>
+    <value>332, 133</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>667, 615</value>
+    <value>350, 180</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>350, 180</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Muh Clock</value>

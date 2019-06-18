@@ -29,10 +29,5 @@ namespace muh_clock
         {
             timer.Start();
         }
-
-        private void LblDate_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

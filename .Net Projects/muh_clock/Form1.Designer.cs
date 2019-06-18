@@ -57,7 +57,6 @@
             this.lblDate.BackColor = System.Drawing.Color.Transparent;
             this.lblDate.ForeColor = System.Drawing.Color.White;
             this.lblDate.Name = "lblDate";
-            this.lblDate.Click += new System.EventHandler(this.LblDate_Click);
             // 
             // lblDay
             // 
@@ -75,7 +74,7 @@
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.BackColor = System.Drawing.SystemColors.WindowText;
             this.Controls.Add(this.lblDay);
             this.Controls.Add(this.lblDate);
             this.Controls.Add(this.lblSecond);
