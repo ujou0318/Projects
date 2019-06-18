@@ -1,0 +1,10 @@
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\bin\Release\muh_clock.exe.config
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\bin\Release\muh_clock.exe
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\bin\Release\muh_clock.pdb
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.csprojAssemblyReference.cache
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.Form1.resources
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.Properties.Resources.resources
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.csproj.GenerateResource.cache
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.csproj.CoreCompileInputs.cache
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.exe
+C:\Users\Ujou\Documents\GitHub\Projects\.Net Projects\muh_clock\obj\Release\muh_clock.pdb
