@@ -81,7 +81,7 @@
             this.Controls.Add(this.lblSecond);
             this.Controls.Add(this.lblTime);
             this.Cursor = System.Windows.Forms.Cursors.Default;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.form_load);
             this.ResumeLayout(false);
