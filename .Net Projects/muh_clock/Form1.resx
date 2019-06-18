@@ -163,7 +163,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblSecond.Location" type="System.Drawing.Point, System.Drawing">
-    <value>212, 79</value>
+    <value>218, 79</value>
   </data>
   <data name="lblSecond.Size" type="System.Drawing.Size, System.Drawing">
     <value>62, 48</value>
