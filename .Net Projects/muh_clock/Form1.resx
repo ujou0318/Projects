@@ -126,7 +126,7 @@
     <value>Impact, 36pt</value>
   </data>
   <data name="lblTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>57, 57</value>
+    <value>49, 54</value>
   </data>
   <data name="lblTime.Size" type="System.Drawing.Size, System.Drawing">
     <value>172, 75</value>
@@ -163,7 +163,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblSecond.Location" type="System.Drawing.Point, System.Drawing">
-    <value>218, 79</value>
+    <value>214, 76</value>
   </data>
   <data name="lblSecond.Size" type="System.Drawing.Size, System.Drawing">
     <value>62, 48</value>
